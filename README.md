@@ -30,13 +30,13 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 2. **Clonar o repositório** em sua máquina, usando comando abaixo em seu terminal:
 
 ```
-  git clone https://github.com/oliviaresende/conceitos-nodejs.git
+  git clone https://github.com/oliviaresende/concepts-nodejs.git
 ```
 
 3. **Acessar o repositório**:
 
 ```
-  cd conceitos-nodejs
+  cd concepts-nodejs
 ```
 
 4. Agora basta **instalar as dependências** do seu projeto, digitando no terminal:
